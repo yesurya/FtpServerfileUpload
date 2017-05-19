@@ -28,9 +28,9 @@ import android.widget.Toast;
 public class Main2Activity extends Activity {
 
     protected static final int SELECT_PICTURE = 0;
-    private static final String SERVER = "ftp.pec.edu.np";
-    private static final String USERNAME = "tryagn@pec.edu.np";
-    private static final String PASSWORD = "th3br0gramm3rs125";
+    private static final String SERVER = "ftp.som.som";
+    private static final String USERNAME = "hhjh@jjj";
+    private static final String PASSWORD = "*********";
     private static final String PATH = null;
     public String var;
     TextView textTargetUri;
